@@ -47,7 +47,7 @@ Currently transitioning into Cybersecurity with hands-on lab practice and formal
 - VPN & Firewall (FortiGate basics), Citrix
 - LAN/WAN, VLAN, DHCP & DNS, VPN, FortiGate Firewall Basics
 
-
+### 📜 Certifications
 - CompTIA Network+ Certified  
 - Microsoft Azure Administrator (AZ-104) – Previously Certified  
 - Currently pursuing Cybersecurity Program (IIT Kanpur) 
